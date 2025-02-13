@@ -69,8 +69,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: "assets/images/lama.png"
-  favicon: "assets/images/lama.png"
+  logo: "assets/images/logo.png"
+  favicon: "assets/images/logo.png"
   icon:
     repo: simple/github
     annotation: material/skull-outline
@@ -113,8 +113,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
-repo_name: CurveDocs/curve-docs
-repo_url: https://github.com/CurveDocs/curve-docs
+repo_name: bitzap-org/bitzap-docs
+repo_url: https://github.com/bitzap-org/bitzap-docs
 
 
 

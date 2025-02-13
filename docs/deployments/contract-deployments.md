@@ -1,6 +1,6 @@
 <h1>Contract Deployments</h1>
 
-This section aims to provide a comprehensive list of all the contracts deployed by Curve. If there are any discrepancies, please don't hesitate to create an Issue on [:material-github: GitHub](https://github.com/CurveDocs/curve-docs/issues).
+This section aims to provide a comprehensive list of all the contracts deployed by Curve. If there are any discrepancies, please don't hesitate to create an Issue on [:material-github: GitHub](https://github.com/bitzap-org/bitzap-docs/issues).
 
 ---
 
@@ -18,7 +18,6 @@ This section aims to provide a comprehensive list of all the contracts deployed 
 | `Gauge Controller`       | [0x2F50D538606Fa9EDD2B11E2446BEb18C9D5846bB](https://etherscan.io/address/0x2F50D538606Fa9EDD2B11E2446BEb18C9D5846bB) |
 | `Minter`                 | [0xd061D61a4d941c39E5453435B6345Dc261C2fcE0](https://etherscan.io/address/0xd061D61a4d941c39E5453435B6345Dc261C2fcE0) |
 | `Voting Escrow`          | [0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2](https://etherscan.io/address/0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2) |
-
 
 *Vesting contracts for the Curve DAO token:*
 
@@ -40,7 +39,7 @@ This section aims to provide a comprehensive list of all the contracts deployed 
 *Despite being launched on Ethereum, the Curve DAO Token can be bridged to various chains:*
 
 !!!danger "MULTICHAIN WARNING"
-    Multichain statement: https://twitter.com/MultichainOrg/status/1677180114227056641  
+    Multichain statement: <https://twitter.com/MultichainOrg/status/1677180114227056641>  
     The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains.
     There is no confirmed resume time.  
     **Please don't use the Multichain bridging service now.**
@@ -257,7 +256,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | [0x25877b9413Cc7832A6d142891b50bd53935feF82](https://arbiscan.io/address/0x25877b9413Cc7832A6d142891b50bd53935feF82) |
 | Agent Blueprint    | [0x187FE3505e56f4dA67b06564F03575cC15bE2B4d](https://arbiscan.io/address/0x187FE3505e56f4dA67b06564F03575cC15bE2B4d) |
 
-
 **:logos-optimism: Optimism**
 
 | Contract Type      | Contract Address |
@@ -269,7 +267,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Emergency Agent | [0x9fF1ddE4BE9BbD891836863d227248047B3D881b](https://optimistic.etherscan.io/address/0x9fF1ddE4BE9BbD891836863d227248047B3D881b) |
 | L2 Vault           | [0xD166EEdf272B860E991d331B71041799379185D5](https://optimistic.etherscan.io/address/0xD166EEdf272B860E991d331B71041799379185D5) |
 | Agent Blueprint    | [0xC5fd5D3b06a8ef50b911972CA313E4d327F7c0aC](https://optimistic.etherscan.io/address/0xC5fd5D3b06a8ef50b911972CA313E4d327F7c0aC) |
-
 
 **:logos-base: Base**
 
@@ -283,7 +280,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | [0xA4c0eA0fb8eb652e11C8123E589197E18Ca78AA8](https://basescan.org/address/0xA4c0eA0fb8eb652e11C8123E589197E18Ca78AA8) |
 | Agent Blueprint    | [0xF3BC9E5fA891977DCa765ff52E8f22A1F7d49c1f](https://basescan.org/address/0xF3BC9E5fA891977DCa765ff52E8f22A1F7d49c1f) |
 
-
 **:logos-gnosis: Gnosis**
 
 | Contract Type      | Contract Address |
@@ -295,7 +291,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Emergency Agent | [0xEFDA01FE1dE71c9bDcFd78A58EA34d9F8f8bde90](https://gnosisscan.io/address/0xEFDA01FE1dE71c9bDcFd78A58EA34d9F8f8bde90) |
 | L2 Vault           | [0x0B8c6A25904a1b8A0712Bc857390130a438c52AA](https://gnosisscan.io/address/0x0B8c6A25904a1b8A0712Bc857390130a438c52AA) |
 | Agent Blueprint    | [0x61951AC5664c7a7d7aB7df9892a82a5fCd622Bb2](https://gnosisscan.io/address/0x61951AC5664c7a7d7aB7df9892a82a5fCd622Bb2) |
-
 
 **:logos-fraxtal: Fraxtal**
 
@@ -309,7 +304,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | [0x50eD95CEb917443eE0790Eea97494121CA318a6C](https://fraxscan.com/address/0x50eD95CEb917443eE0790Eea97494121CA318a6C) |
 | Agent Blueprint    | [0x47fE2319e3Ea3451f87196Aca4973563CEda838b](https://fraxscan.com/address/0x47fE2319e3Ea3451f87196Aca4973563CEda838b) |
 
-
 **:logos-mantle: Mantle**
 
 | Contract Type      | Contract Address |
@@ -321,7 +315,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Emergency Agent | [0x4339b53cf7f6eec1a997ceea81165e45c1244429](https://explorer.mantle.xyz/address/0x4339b53cf7f6eec1a997ceea81165e45c1244429) |
 | L2 Vault           | [0x77A214bd4ee3650e5608339BBbE04b09f5546ECF](https://explorer.mantle.xyz/address/0x77A214bd4ee3650e5608339BBbE04b09f5546ECF) |
 | Agent Blueprint    | [0x5EF72230578b3e399E6C6F4F6360edF95e83BBfd](https://explorer.mantle.xyz/address/0x5EF72230578b3e399E6C6F4F6360edF95e83BBfd) |
-
 
 **:logos-avalanche: Avalanche**
 
@@ -335,7 +328,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | [0xad422855ac8010f82F08696CA7750EfE061aa6D6](https://snowscan.xyz/address/0xad422855ac8010f82F08696CA7750EfE061aa6D6) |
 | Agent Blueprint    | [0x31d13B6e3e287F506D21bBED9eA4b169971DF3fe](https://snowscan.xyz/address/0x31d13B6e3e287F506D21bBED9eA4b169971DF3fe) |
 
-
 **:logos-fantom: Fantom**
 
 | Contract Type      | Contract Address |
@@ -347,7 +339,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Emergency Agent | [0x42113C6818ACb87ca3CaFDbBc6a6ae396f1548E6](https://ftmscan.com/address/0x42113C6818ACb87ca3CaFDbBc6a6ae396f1548E6) |
 | L2 Vault           | [0x49C8De2D10C9A56DD9A59ab5Ca1216111276394C](https://ftmscan.com/address/0x49C8De2D10C9A56DD9A59ab5Ca1216111276394C) |
 | Agent Blueprint    | [0x0732539C8aD556594FDa6A50fA8E976cA6D514B9](https://ftmscan.com/address/0x0732539C8aD556594FDa6A50fA8E976cA6D514B9) |
-
 
 **:logos-bsc: BinanceSmartChain**
 
@@ -361,7 +352,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | [0x44C927BacD65da570cB1F0A2F625367049525022](https://bscscan.com/address/0x44C927BacD65da570cB1F0A2F625367049525022) |
 | Agent Blueprint    | [0x3D09c5D6AE6e45d01C560342E11ef355C2763F01](https://bscscan.com/address/0x3D09c5D6AE6e45d01C560342E11ef355C2763F01) |
 
-
 **:logos-kava: Kava**
 
 | Contract Type      | Contract Address |
@@ -373,7 +363,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Emergency Agent | [0xA177D2bd2BD723878bD95982c0855291953f74C9](https://kavascan.com/address/0xA177D2bd2BD723878bD95982c0855291953f74C9) |
 | L2 Vault           | - |
 | Agent Blueprint    | [0xC0AE3B85060530384647E9F3D63C9e1F53231f68](https://kavascan.com/address/0xC0AE3B85060530384647E9F3D63C9e1F53231f68) |
-
 
 **:logos-polygon: Polygon**
 
@@ -387,7 +376,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | - |
 | Agent Blueprint    | [0x1fE46Da288A55aAf32facc6D182fB1933B22c2E9](https://polygonscan.com/address/0x1fE46Da288A55aAf32facc6D182fB1933B22c2E9) |
 
-
 **:logos-polygon: Polygon zk-EVM**
 
 | Contract Type      | Contract Address |
@@ -399,7 +387,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Emergency Agent | [0xb0261f64E512322EfB35E92C353301eC36b9712B](https://zkevm.polygonscan.com/address/0xb0261f64E512322EfB35E92C353301eC36b9712B) |
 | L2 Vault           | [0x13DFF1809D1E9ddf9Ac901F47817B7F45220A846](https://zkevm.polygonscan.com/address/0x13DFF1809D1E9ddf9Ac901F47817B7F45220A846) |
 | Agent Blueprint    | [0xe35A879E5EfB4F1Bb7F70dCF3250f2e19f096bd8](https://zkevm.polygonscan.com/address/0xe35A879E5EfB4F1Bb7F70dCF3250f2e19f096bd8) |
-
 
 **:logos-xlayer: X-Layer**
 
@@ -413,7 +400,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | L2 Vault           | [0x0848F3800F04b3ad4309A5f27814be7FC4740cB9](https://www.oklink.com/xlayer/address/0x0848F3800F04b3ad4309A5f27814be7FC4740cB9/contract) |
 | Agent Blueprint    | [0x0199429171bce183048dccf1d5546ca519ea9717](https://www.okx.com/web3/explorer/xlayer/address/0x0199429171bce183048dccf1d5546ca519ea9717/contract) |
 
-
 ---
 
 ## Curve X-DAO
@@ -421,13 +407,11 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 !!!github "GitHub"
     Source code for cross-chain structure contracts is available on [:material-github: GitHub](https://github.com/curvefi/curve-xdao).
 
-
 **:logos-ethereum: Ethereum**
 
 | Contract Type | Contract Address |
 | :------------ | :--------------- |
 | Bridge Owner Proxy | [`0x5a02d537fE0044E3eF506ccfA08f370425d1408C`](https://etherscan.io/address/0x5a02d537fE0044E3eF506ccfA08f370425d1408C#code) |
-
 
 **CRV Bridges**
 
@@ -438,16 +422,14 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | BNB Bridge (LayerZero) | [`0xC91113B4Dd89dd20FDEECDAC82477Bc99A840355`](https://etherscan.io/address/0xC91113B4Dd89dd20FDEECDAC82477Bc99A840355#code) |
 | KAVA Bridge (LayerZero) | [`0x3C8D2A033131551a3f09E7b5c07DB01d547311CC`](https://etherscan.io/address/0x3C8D2A033131551a3f09E7b5c07DB01d547311CC#code) |
 
-
 **crvUSD Bridges**
- 
+
 | Chain | Contract Address |
 | :---- | :--------------- |
 | AVAX Bridge (LayerZero) | [`0x26D01ce989037befd7Ff63837A86e2da32E7D7e2`](https://etherscan.io/address/0x26D01ce989037befd7Ff63837A86e2da32E7D7e2#code) |
 | BNB Bridge (LayerZero) | [`0x0A92Fd5271dB1C41564BD01ef6b1a75fC1db4d4f`](https://etherscan.io/address/0x0A92Fd5271dB1C41564BD01ef6b1a75fC1db4d4f#code) |
 | FTM Bridge (LayerZero) | [`0x76EAfda658C54548B460B3f190386699DE3827d8`](https://etherscan.io/address/0x76EAfda658C54548B460B3f190386699DE3827d8#code) |
 | KAVA Bridge (LayerZero) | [`0x1C4e4553F95C28bc529233Cc35D550befE7B83Fc`](https://etherscan.io/address/0x1C4e4553F95C28bc529233Cc35D550befE7B83Fc#code) |
-
 
 **Keepers (Block Hash Sender)**
 
@@ -459,7 +441,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | KAVA Keeper (LayerZero) | [`0xbBFE8c07430a2ccc00A12874534Fe7f929914e7D`](https://etherscan.io/address/0xbBFE8c07430a2ccc00A12874534Fe7f929914e7D#code) |
 | Polygon Keeper (LayerZero) | [`0x845F4E2a88B12978e50C08b46a1d5A1b0eEe28aA`](https://etherscan.io/address/0x845F4E2a88B12978e50C08b46a1d5A1b0eEe28aA#code) |
 | CCIP Keeper | [`0x51a00F38CB1c055EbbBE380D3bA3D27CAE5d9e61`](https://etherscan.io/address/0x51a00F38CB1c055EbbBE380D3bA3D27CAE5d9e61#code) |
-
 
 **:logos-avalanche: Avalanche**
 
@@ -479,7 +460,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | Gauge Type Prover | [`0x0B2584EfC66e9954e72d516be2Bb855EF0Defe62`](https://snowscan.xyz/address/0x0B2584EfC66e9954e72d516be2Bb855EF0Defe62#code) |
 | Message Digest Prover | [`0xd5cF10C83aC5F30Ab27B6156DA9c238Aa63a63d0`](https://snowscan.xyz/address/0xd5cF10C83aC5F30Ab27B6156DA9c238Aa63a63d0#code) |
 
-
 **:logos-fantom: Fantom**
 
 | Contract Type | Contract Address |
@@ -497,7 +477,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | Gauge Type Oracle | [`0x898Cd2cCE27CE3eb7eACBDD85FEd8181379f0F46`](https://ftmscan.com/address/0x898Cd2cCE27CE3eb7eACBDD85FEd8181379f0F46#code) |
 | Gauge Type Prover | [`0x7FA0a0E2820b7B12aeFb3A2A3c0C6F83aAD87054`](https://ftmscan.com/address/0x7FA0a0E2820b7B12aeFb3A2A3c0C6F83aAD87054#code) |
 | Message Digest Prover | [`0xAb0ab357a10c0161002A91426912933750082A9d`](https://ftmscan.com/address/0xAb0ab357a10c0161002A91426912933750082A9d#code) |
-
 
 **:logos-bsc: Binance Smart Chain**
 
@@ -517,7 +496,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | Gauge Type Prover | [`0xd7454AEbf1C37661dfb5d2857F6aF7a2E09975bc`](https://bscscan.com/address/0xd7454AEbf1C37661dfb5d2857F6aF7a2E09975bc#code) |
 | Message Digest Prover | [`0xbfF1f56c8e48e2F2F52941e16FEecc76C49f1825`](https://bscscan.com/address/0xbfF1f56c8e48e2F2F52941e16FEecc76C49f1825#code) |
 
-
 **:logos-kava: Kava**
 
 | Contract Type | Contract Address |
@@ -532,7 +510,6 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
 | Gauge Type Oracle | [`0x1E7B1Bd0490ddE12F6E3d09766Beb05552AFe27A`](https://kavascan.com/address/0x1E7B1Bd0490ddE12F6E3d09766Beb05552AFe27A#code) |
 | Gauge Type Prover | [`0x64ed8CfF5Ad3DaEb217abE03a00Ff2D90b86456b`](https://kavascan.com/address/0x64ed8CfF5Ad3DaEb217abE03a00Ff2D90b86456b#code) |
 | Message Digest Prover | [`0x5373E1B9f2781099f6796DFe5D68DE59ac2F18E3](https://kavascan.com/address/0x5373E1B9f2781099f6796DFe5D68DE59ac2F18E3#code) |
-
 
 **:logos-polygon: Polygon**
 
@@ -553,9 +530,9 @@ Full `x-gov` documentation can be found here: [Cross-Chain Governance](../curve_
     The old implementation of sidechain gauges is deprecated and will be removed in the future.
 
 !!!danger "MULTICHAIN WARNING"
-    At the time of writing (13.11.2023), sidechain gauges on Celo, Avalanche and Fantom are disabled due to issues with Multichain.    
+    At the time of writing (13.11.2023), sidechain gauges on Celo, Avalanche and Fantom are disabled due to issues with Multichain.
     The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. There is no confirmed resume time.  
-    Multichain statement: https://twitter.com/MultichainOrg/status/1677180114227056641
+    Multichain statement: <https://twitter.com/MultichainOrg/status/1677180114227056641>
 
 !!!github "GitHub"
     Source code is available on [GitHub](https://github.com/curvefi/curve-dao-contracts/tree/master/contracts/gauges/sidechain).
@@ -646,7 +623,7 @@ The full documentation for the `AddressProvider` contracts can be found [here](.
 
 The full documentation for the `MetaRegistry` contracts can be found [here](../registry/overview.md). Source code for the `MetaRegistry` and `MetaRegistryL2` contracts is available on [:material-github: GitHub](https://github.com/curvefi/metaregistry/tree/main/contracts).
 
-Each `MetaRegistry` is integrated into the chain-specific [`AddressProvider`](#address-provider) at `ID = 7`. To get the **most recent contract, users are advised to fetch it directly from the `AddressProvider` contract**. 
+Each `MetaRegistry` is integrated into the chain-specific [`AddressProvider`](#address-provider) at `ID = 7`. To get the **most recent contract, users are advised to fetch it directly from the `AddressProvider` contract**.
 
 *For example, to query the `MetaRegistry` contract on Ethereum, one can call `get_address(7)` on the `AddressProvider`:*
 
@@ -918,7 +895,7 @@ The full documentation for the `crvUSD` contracts can be found [here](../crvUSD/
 
 | Chain                       | crvUSD Token Address |
 | --------------------------- | :------------------: |
-| :logos-ethereum: `Ethereum` | [0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E](https://etherscan.io/token/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E) | 
+| :logos-ethereum: `Ethereum` | [0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E](https://etherscan.io/token/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E) |
 | :logos-arbitrum: `Arbitrum` | [0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5](https://arbiscan.io/address/0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5) |
 | :logos-optimism: `Optimism` | [0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6](https://optimistic.etherscan.io/address/0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6) |
 | :logos-base: `Base`         | [0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93](https://basescan.org/address/0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93) |
